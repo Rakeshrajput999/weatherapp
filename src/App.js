@@ -55,7 +55,7 @@ function App() {
                   <div className="wind-pressure">
                     <ul style={{listStyleType:'none'}}>
                       <li>wind-speed:{Data.current.wind_kph}{""}kph</li>
-                      <li>wind-degree:{Data.current.wind_degree}°</li>
+                     <li>wind-degree:{Data.current.wind_degree}°</li>
                       <li>wind-diraction:{Data.current.wind_dir}</li>
                     </ul>
                     <ul style={{listStyleType:'none'}} >
